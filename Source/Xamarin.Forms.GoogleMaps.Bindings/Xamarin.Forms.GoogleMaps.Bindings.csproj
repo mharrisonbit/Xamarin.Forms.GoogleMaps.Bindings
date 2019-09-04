@@ -19,7 +19,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="2.3.4.247" />
+    <PackageReference Include="Xamarin.Forms" Version="4.1.0.581479" />
     <PackageReference Include="Xamarin.Forms.GoogleMaps" Version="2.1.0" />
   </ItemGroup>
 
